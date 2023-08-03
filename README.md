@@ -6,10 +6,6 @@ Dashboard
 ===
 **A simple dashboard that allows you to add contacts and items through a Java Swing UI**
 
-
-## Table of Contents
-
-
 ## Beginners Guide
 
 1. Download MySQL Server and MySQL Workbench
